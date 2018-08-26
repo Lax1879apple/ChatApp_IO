@@ -1,0 +1,24 @@
+{
+  "name": "chatapp_io",
+  "version": "1.0.0",
+  "description": "simple chat application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lax1879apple/ChatApp_IO.git"
+  },
+  "author": "Laxmann C",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lax1879apple/ChatApp_IO/issues"
+  },
+  "homepage": "https://github.com/Lax1879apple/ChatApp_IO#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "socket.io": "^2.1.1"
+  }
+}
